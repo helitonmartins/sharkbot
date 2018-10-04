@@ -2,7 +2,7 @@
   
 This is a telegram bot, which uses key, value from a json file to reply and say funny phrases on any channel that
 you want to add it...
-This version run on the official [FreeNasBr](https://t.me/freenasbr) Group on Telegram.
+This version runs on the official Brazilian [FreeNas](https://t.me/freenasbr) group on Telegram.
 
 But this bot was firstly created to be a funny bot at [GaragemHacker Curitiba HackerSpace](http://garagemhacker.org) group.
 The main objective here is implement some level of a decision tree which can be used to moderate  
@@ -14,7 +14,7 @@ pharse every time when some moderation was already been asked.
   
 ### How to use
   
-At the point, I'm writing this README this bot doesn't have yet a yaml file,_(__which will be a very nice improvement on this bot_ ).  
+At the point, I'm writing this README this bot doesn't have yet a yaml file,(_which will be a very nice improvement on this bot_ ).  
 So to use this bot you must set only two variables:  
   
 `token` must be set to your bot token as a string.  
