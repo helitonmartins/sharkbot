@@ -20,7 +20,18 @@ So to use this bot you must set only two variables:
 `token` must be set to your bot token as a string.  
 `myid` must be set with your bot id.  
   
-You can also adjust the phrases and create more phrase by changing the file `phrases.json`  
+You can also adjust the phrases and even create more vocabulary, by changing the file `phrases.json`
+
+### Dependencies
+ * python-telegram-bot
+ 
+### To-Do
+This tasks will create a very nice improvement on this bot.
+- [ ] Migrate to python3.
+- [ ] Import all configurations from an external config file
+- [ ] Create a nice GoodBye for who is leaving the group.
+- [ ] Save history as logs in public servers.
+- [ ] Create a docker container. 
 
 #### License  
 GPL-v3  
