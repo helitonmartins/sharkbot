@@ -1,0 +1,113 @@
+{
+    "moderando":
+                [
+                    "modera","modere","please moderation","moderation","mostre as regras",
+                    "show rules","how work","how it works","regras"
+
+
+                ],
+    "modera":
+                [
+                    "Pois é... Então, moderei já...",
+                    "Veja bem, acabei de moderar...",
+                    "É sério, acabaram de me pedir isso",
+                    "Temq moderar de novo? Tipo foi soh ah |+str(moderados)+| segundos",
+                    "Acabei de moderar... A |+str(moderados)+| segundos atrás... Tem que moderar de volta?",
+                    "Tente de novo outra hora..."
+                ],
+    "shark":
+                [
+                    "shark","tuba","@shark","@freenasbrbot","sharkbot",
+                    "tutu","botshark","nasbot","tubarao","@tubarao"
+                ],
+    "xingado":
+                [
+                    "burro","idiota","imbecil","xinga o veio","xinga","vai a merda","vai se foder","vai se fuder","foda-se","palavrao","xingalo","por favor queira xingalo",
+                    "ofenda","ofenda ele","por favor xingueo","puto","loco","lazarento","loque","loke","trolha","fedido","louco","bundao","anta","morte","morra","estupido","stupido","estubido"
+                ],
+
+    "greetings":
+
+                [
+                    "oi cara de boi",
+                    "Hi man!",
+                    "e aí veio?",
+                    "tudo blz?",
+                    "fala aí maaaano, vamos elevar o nível?",
+                    "hunf!",
+                    "pfffff...",
+                    "blz veio? ;)",
+                    "tudo numa nice!",
+                    "muito storage pra vc, my friend",
+                    "im a live!!!!!",
+                    "oh yeahhh have a very NAS day",
+                    "pare com isso...",
+                    "eu rodo amigavelmente em um Nas4Free...",
+                    "nao enrrola pergunta logo..."
+
+                ],
+
+    "xinga":
+
+                [
+                    "seu lazarento!",
+                    "vai catar coquinho na descida...",
+                    "%$#@(*&%%$#",
+                    "sua bunda",
+                    "seus cornolhos...",
+                    "seus cabriocaricos",
+                    "veio loco...",
+                    "sua dignissima maezinha",
+                    "AHHHHHH!1!!!!111!!1!11!!1",
+                    "seu bebado",
+                    "f$#@$@#! U",
+		                "vai a m%$#$",
+		                "se controla charly, ele nao sabe oq fala",
+		                "e tu tatu",
+		                "xiuu... ShutUp"
+
+                ],
+
+    "greets":
+                [
+                    "oi","ola","blz","beleuza","blz","hi","hello","alo",
+                    "fala","blz","beleza","como vai","sussa","nice","ta vivo","bom dia","boa noite","boa tarde","bom dia a todos"
+                ],
+
+    "perguntas":
+                [
+                    "como vai?",
+                    "vou indo, e voce?",
+                    "qual seu nome?",
+                    "meus brothers me chama de ray meu nick é @raycharlesbot",
+                    "quem e voce?",
+                    "eu sou eu e voce quem é?",
+                    "quem te criou?",
+                    "sou filho do @igorsca",
+                    "quem seu pai?",
+                    "meu pai e o @igorsca",
+                    "voce gosta da elvira?",
+                    "ela meio burra mas convivo com ela...",
+                    "o que voce acha da elvira?",
+                    "peituda!",
+                    "voce amigo do lcbulek?",
+                    "lcbulek um veio loko...",
+                    "quando garagem abre?",
+                    "pergunta pra @elvirabot",
+                    "tudo bem?",
+                    "numa nice...",
+                    "quem vc?",
+                    "eu sou o ray",
+                    "vc gay?",
+                    "talvez..."          
+                ],
+
+    "naosei":
+                [
+                    "the BUG has been planted!","ihhh ja te falei q quando nao sei vc cai no meu if randomico?",
+                    "Socorro, alguem me tire daqui...","Help!!!","Coloque uma ficha para continuar!",
+                    "Sequencia de desligamento iniciada...","Rodo nativamente em uma qjail num Nas4Free ;)","Nao pergunte bobagens...",
+                    "Eu moro no finch..." 
+
+                ]
+} 

@@ -1,0 +1,8 @@
+
+O grupo <a href="https://t.me/freenasbr">FreeNAS BR</a> é para assuntos sobre FreeNAS e tecnologias de Storages,NAS's e relacionados...
+Este grupo segue este --> <a href="https://github.com/brazil-it-groups/code-of-conduct">código de conduta</a>. Leia com antecao!
+Se voce entrou aqui e nao faz idéia o que seja um <a href="http://lmgtfy.com/?q=Network+Attached+Storage">NAS</a>, comece pesquisando antes de perguntar.
+Sempre gostamos de elevar o grupo/canal, e ter qualidade. Recomendamos ainda ler: <a href="http://catb.org/~esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a>.
+Assim todos buscaremos juntos ter mais qualidade...
+
+Enjoy!!!
