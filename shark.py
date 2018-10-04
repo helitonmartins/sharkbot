@@ -1,7 +1,24 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-#Raimundo Chatter Bot GaragemHacker Curitiba HackerSpace
+#The old Raimundo Chatter Bot  from GaragemHacker Curitiba HackerSpace now at FreeNASBR
 #https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot
+#########################################################
+# Copyright disclaimer
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# Isca disclaims all copyright interest in the program “isca-cv.sh”
+# (which show Igor S. Brandao Curriculum Vitae) is written by Igot Brandao.
+###########################################################
 
 import sys,os
 import time
