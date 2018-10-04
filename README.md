@@ -1,24 +1,26 @@
 ### SharkBot
   
-This is a telegram bot, who uses key, value json to reply and say funny phrases on any channel  
-you want to add him...
+This is a telegram bot, which uses key, value from a json file to reply and say funny phrases on any channel that
+you want to add it...
+This version run on the official [FreeNasBr](https://t.me/freenasbr) Group on Telegram.
 
-This bot was firstly created to be a funny bot at [GaragemHacker Curitiba HackerSpace](http://garagemhacker.org) group.
-The main objective here is implement some level of decision tree which can be used to moderate  
+But this bot was firstly created to be a funny bot at [GaragemHacker Curitiba HackerSpace](http://garagemhacker.org) group.
+The main objective here is implement some level of a decision tree which can be used to moderate  
 users on a Telegram, but in a very funny way, with some jokes and clever phrases :stuck_out_tongue_winking_eye:. It can also,
-reply users in a randon way searching the context in phrases and say something that can match with  
-it's own vocabullary.
-I have also created some level of histeresis, which is used to do not disturb a lot with the same moderation  
-pharse. :wink:  
+reply users in a random way searching the context in phrases and say something that can match with  
+it's own vocabulary.
+I have also created some level of hysteresis, which is used to do not disturb with the same moderation  
+pharse every time when some moderation was already been asked.  
   
 ### How to use
   
-At the point I'm writing this README this bot doens't have yet a yaml file,_(_ which will be a very nice improvemente on this bot_ ). So to use this bot you must set only two variables:  
+At the point, I'm writing this README this bot doesn't have yet a yaml file,_(__which will be a very nice improvement on this bot_ ).  
+So to use this bot you must set only two variables:  
   
-`token` must be setted to your bot token as string.  
-`myid` must be setted with your bot id.  
+`token` must be set to your bot token as a string.  
+`myid` must be set with your bot id.  
   
-You can also adjust the pharses and create more phrase by change the file `phrases.json`  
+You can also adjust the phrases and create more phrase by changing the file `phrases.json`  
 
 #### License  
 GPL-v3  

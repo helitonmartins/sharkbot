@@ -16,8 +16,8 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-# Isca disclaims all copyright interest in the program “isca-cv.sh”
-# (which show Igor S. Brandao Curriculum Vitae) is written by Igot Brandao.
+# Isca disclaims all copyright interest in the program “shark.py”
+# (which is a telegram bot ) is written by Igor Brandao.
 ###########################################################
 
 import sys,os
